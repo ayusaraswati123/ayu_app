@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HMJ Ekbis</string>
+    <string name="ukm">HMJ Ekbis</string>
+    <string name="coll">Nama</string>
+    <string name="coll2">Angkatan</string>
+    <string name="coll3">Divisi</string>
+    <string name="row1Nama">Ajeng Saraswati</string>
+    <string name="row2Nama">Mutiara Belkis Oktavia</string>
+    <string name="row3Nama">Lintang Pratiwi</string>
+    <string name="row4Nama">Putri Fadilla Finaldy</string>
+    <string name="row5Nama">Rizky Rahmatullah</string>
+    <string name="row6Nama">Sarip Hidayattuloh</string>
+    <string name="row7Nama">Ade Risman</string>
+    <string name="row8Nama">Ridho Ramadhanil</string>
+    <string name="row9Nama">Umi Khasanah</string>
+    <string name="row10Nama">Ahmad Sarbani</string>
+    <string name="row11Nama">Mukaromah</string>
+    <string name="row12Nama">Dwi Apriyani</string>
+
+    <string name="ang20">20</string>
+    <string name="ang21">21</string>
+
+    <string name="psdm">PSDM</string>
+    <string name="komin">KOMINFO</string>
+    <string name="sosma">SOSMA</string>
+    <string name="danus">DANUS</string>
+    <string name="litbang">LITBANG</string>
+
+    <string name="dpsdm">Divisi Pengembangan Sumber Daya Mahasiswa merupakan divisi yang bertujuan untuk menciptakan keharmonisan antar anggota, sehingga semua anggota tertanam dalam dirinya untuk merasa bertanggungjawab terhadap kemajuan HMJ Ekonomi dan Bisnis serta menjadi wadah terbentuknya karakter tangguh serta profesional sebagai seorang pemimpin di masa yang akan datang.</string>
+    <string name="dkomin">Divisi Komunikasi dan Informasi adalah divisi yang bertujuan untuk membuat, mendistribusikan dan mempublikasikan seluruh kegiatan yang dilakukan HMJ Ekonomi dan Bisnis selama satu periode dan menginformasikan seluruh berita kepada mahasiswa Ekonomi dan Bisnis.</string>
+    <string name="dsosma">Divisi Sosial Mahasiswa mencakup 3 bidan</string>
+    <string name="ddanus">Divisi Dana dan Usaha merupakan divisi yang bertujuan menghimpun dana untuk mendukung segala kegiatan HMJ Ekonomi dan Bisnis. Divisi ini terbentuk dikarenakan peluang usaha masa kini memiliki prospek yang menjanjikan.</string>
+    <string name="dlitbang">Divisi Penelitian dan Pengembangan merupakan divisi yang bertujuan untuk mengembangkan minat dan bakat mahasiswa/i HMJ Ekonomi dan Bisnis.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
